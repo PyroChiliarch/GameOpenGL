@@ -1,0 +1,23 @@
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\Graphics\Shaders\Standard.frag
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\Graphics\Shaders\Standard.vert
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\Textures\atex.bmp
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\Textures\Cube - Copy.bmp
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\Textures\Cube2.bmp
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\Meshes\Cube - Copy.obj
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\Meshes\Cube.obj
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\GameOpenGL.exe.config
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\GameOpenGL.exe
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\GameOpenGL.pdb
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\MathNet.Numerics.dll
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\MathNet.Spatial.dll
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\OpenTK.dll
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\OpenTK.Rift.dll
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\MathNet.Numerics.xml
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\MathNet.Spatial.xml
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\OpenTK.Rift.xml
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Release\OpenTK.Rift.dll.config
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Release\GameOpenGL.csproj.AssemblyReference.cache
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Release\GameOpenGL.csproj.CoreCompileInputs.cache
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Release\GameOpenGL.csproj.CopyComplete
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Release\GameOpenGL.exe
+D:\Information Technology\Projects\Game Programming\Before Corona\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Release\GameOpenGL.pdb

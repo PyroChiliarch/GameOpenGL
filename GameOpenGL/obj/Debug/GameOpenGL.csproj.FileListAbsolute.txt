@@ -1,0 +1,65 @@
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\GameOpenGL.exe.config
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\GameOpenGL.exe
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\GameOpenGL.pdb
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\OpenTK.dll
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\obj\Debug\GameOpenGL.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\obj\Debug\GameOpenGL.exe
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\obj\Debug\GameOpenGL.pdb
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\OpenTK.Rift.dll
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\OpenTK.Rift.xml
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\Graphics\Shaders\Standard.frag
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\Graphics\Shaders\Standard.vert
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\Meshes\Cube.obj
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\Meshes\Cube - Copy.obj
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\Textures\atex.bmp
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\Textures\Cube - Copy.bmp
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\Textures\Cube2.bmp
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\MathNet.Numerics.dll
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\MathNet.Spatial.dll
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\MathNet.Numerics.xml
+D:\Programming\Projects\GameOpenGL\GameOpenGL\GameOpenGL\bin\Debug\MathNet.Spatial.xml
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\GameOpenGL.exe.config
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Debug\GameOpenGL.exe
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Debug\GameOpenGL.pdb
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Graphics\Shaders\Standard.frag
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Graphics\Shaders\Standard.vert
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Textures\atex.bmp
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Textures\Cube - Copy.bmp
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Textures\Cube2.bmp
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Meshes\Cube - Copy.obj
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Meshes\Cube.obj
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\GameOpenGL.exe
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\GameOpenGL.pdb
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\MathNet.Numerics.dll
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\MathNet.Spatial.dll
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\OpenTK.dll
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\OpenTK.Rift.dll
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\MathNet.Numerics.xml
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\MathNet.Spatial.xml
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\OpenTK.Rift.xml
+E:\Programming\Projects\GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Debug\GameOpenGL.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\GameOpenGL.exe.config
+E:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Debug\GameOpenGL.exe
+E:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Debug\GameOpenGL.pdb
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Graphics\Shaders\Standard.frag
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Graphics\Shaders\Standard.vert
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Textures\atex.bmp
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Textures\Cube - Copy.bmp
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Textures\Cube2.bmp
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Meshes\Cube - Copy.obj
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\Meshes\Cube.obj
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\GameOpenGL.exe.config
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\GameOpenGL.exe
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\GameOpenGL.pdb
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\MathNet.Numerics.dll
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\MathNet.Spatial.dll
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\OpenTK.dll
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\OpenTK.Rift.dll
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\MathNet.Numerics.xml
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\MathNet.Spatial.xml
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\OpenTK.Rift.xml
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\bin\Debug\OpenTK.Rift.dll.config
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Debug\GameOpenGL.csprojAssemblyReference.cache
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Debug\GameOpenGL.csproj.CopyComplete
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Debug\GameOpenGL.exe
+D:\Programming\Projects\OpenTK - GameOpenGL\GameOpenGL - Backup12 - 3-3-17\GameOpenGL\obj\Debug\GameOpenGL.pdb
